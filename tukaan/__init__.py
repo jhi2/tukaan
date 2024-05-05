@@ -35,7 +35,7 @@ from .widgets.splitview import SplitView
 from .widgets.tabview import TabView
 from .widgets.textbox import TextBox
 
-__all__ = []  # Making star imports impossible. Is it illegal?
+#NOTE: Why is star imports impossible? It makes it easyer
 
 
 class _RequiredVersion:
